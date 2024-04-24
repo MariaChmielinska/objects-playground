@@ -19,6 +19,9 @@ let estudiante = {
  * 
  * Pistas:
  * 
- * 1. ¿De tipo de variable es 'conocimientos'?
- * 2. ¿Cuál es el método para añadir un nuevo elemento a un array?
+ * 1. ¿De tipo de variable es 'conocimientos'? tipo array
+ * 2. ¿Cuál es el método para añadir un nuevo elemento a un array? push
  */
+estudiante.conocimientos.push("CSS");
+
+console.log(estudiante);
